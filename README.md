@@ -263,12 +263,12 @@ financial-qa-system/
 
 | Question              | Method    | Answer            | Confidence | Time (s) | Correct (Y/N) |
 |-----------------------|-----------|-------------------|------------|----------|---------------|
-| Revenue in 2024?      | RAG       | $4.02B            | 0.92       | 0.50     | Y             |
-| Revenue in 2024?      | Fine-Tune | $4.13B            | 0.93       | 0.41     | Y             |
-| Total assets?         | RAG       | $352.8B           | 0.89       | 0.48     | Y             |
-| Total assets?         | Fine-Tune | $352.8B           | 0.91       | 0.38     | Y             |
-| Capital of France?    | RAG       | Not financial data| 0.35       | 0.46     | Y             |
-| Capital of France?    | Fine-Tune | Paris             | 0.85       | 0.38     | N             |
+| Revenue in 2024?      | RAG       | $391.0B           | 0.93       | 9.11     | Y             |
+| Revenue in 2024?      | Fine-Tune | $391.0B           | 0.91       | 21.23    | Y             |
+| Total sales(iphones)? | RAG       | $182.2B           | 0.89       | 4.22     | N             |
+| Total sales(iphones)? | Fine-Tune | $201.2B           | 0.92       | 44.12    | Y             |
+| Capital of France?    | RAG       | blank response    | 0.35       | 11.2     | Y             |
+| Capital of France?    | Fine-Tune | Paris             | 0.22       | 3.47     | N             |
 
 ## 🙏 Acknowledgments
 
@@ -285,4 +285,5 @@ financial-qa-system/
 - **Advanced Guardrails**: More sophisticated validation systems
 - **Model Compression**: Quantization and distillation for efficiency
 - **API Integration**: RESTful API for external applications
+
 - **Multi-language Support**: Internationalization capabilities
