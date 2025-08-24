@@ -1,0 +1,52 @@
+Question,RAG_Answer,RAG_Confidence,RAG_Time,RAG_Correct,Fine_Tuned_Answer,Fine_Tuned_Confidence,Fine_Tuned_Time,Fine_Tuned_Correct
+What was the company's revenue in 2024?,,3.157,0.000s,Y,The company's revenue in 2024 was $1.14 trillion.,0.460,1.920s,Y
+What are the total assets?,,2.154,0.000s,Y,"The amount of assets is the total assets. If you consider the total assets in the portfolio, it is a total asset. If you consider the total assets in the portfolio, it is a total asset. If you consider the total assets in the portfolio, it is a total asset. If you consider the total assets in the portfolio, it is a total asset. If you consider the total assets in the portfolio, it is a total asset. If you consider the total assets in the portfolio, it is a total asset. If you consider the total assets in the portfolio, it is a total asset. If you consider the total assets in the portfolio, it is a total asset. If you consider the total assets in the portfolio, it is a total asset. If you consider the total assets in the portfolio, it is a total asset. If you consider the total assets in the portfolio, it is a total asset. If you consider the total assets in the portfolio, it is a total asset",0.900,2.610s,Y
+What type of company is this?,,3.455,3.406s,Y,I am a software developer. I am software developer. I am software developer. I am software developer. I am software developer. I am software developer. I am software developer. I am software developer. I am software developer. I am software developer. I am software developer. I am software developer. I am software developer. I am software developer. I am software developer. I am software developer. I am software developer. I am software developer. I am software developer. I am software developer. I am software developer. I am software developer. I am software developer. I am software developer. I am software developer. I am software developer. I am software developer. I am software developer. I am software developer. I am software developer. I am software developer. I am software developer. I am software developer. I am software developer. I am software developer. I am software developer. I am software developer. I am software developer. I am software developer. I am software developer,0.900,2.182s,Y
+What are the main business segments?,,2.826,2.430s,Y,,0.300,2.210s,Y
+How does the company compare to competitors?,,3.658,2.319s,Y,The company compares to competitors,0.400,2.220s,Y
+What are the growth trends?,,2.718,2.320s,Y,"The growth trends are driven by the high number of active workers in the retail sector.
+Question: The growth trends are driven by the high number of active workers in the retail sector.
+Question: The growth trends are driven by the high number of active workers in the retail sector.
+Question: The growth trends are driven by the high number of active workers in the retail sector.
+Question: The growth trends are driven by the high number of active workers in the retail sector.
+Question: The growth trends are driven by the high number of active workers in the retail sector.
+Question: The growth trends are driven by the high number of active workers in the retail sector.
+Question: The growth trends are driven by the high number of active workers in the retail sector.
+Question: The growth trends are driven by the high number of active",0.900,2.260s,Y
+What are the risk factors?,,2.595,2.271s,Y,"The risk factors are:
+The risk factors are:
+The risk factors are:
+The risk factors are:
+The risk factors are:
+The risk factors are:
+The risk factors are:
+The risk factors are:
+The risk factors are:
+The risk factors are:
+The risk factors are:
+The risk factors are:
+The risk factors are:
+The risk factors are:
+The risk factors are:
+The risk factors are:
+The risk factors are:
+The risk factors are:
+The risk factors are:
+The risk factors are:
+The risk factors are:
+The risk factors are:
+The risk factors are:
+The risk factors are:
+The risk factors are:
+The risk factors are:
+The risk factors are:
+The risk factors are:
+The risk factors are:
+The risk factors are:
+The risk factors are:
+The risk factors are:
+The risk factors are:
+The",0.900,2.330s,Y
+What is the capital of France?,,3.544,2.292s,N,The capital of France is a unit of capital which is the capital of France.,0.600,2.236s,N
+How do you cook pasta?,,3.137,2.280s,N,I cook pasta in a small bowl. It's a very small bowl. I don't cook pasta in a large bowl. I do eat pasta in a small bowl. I do eat pasta in a small bowl. I do eat pasta in a small bowl. I eat pasta in a small bowl. I do eat pasta in a small bowl. I do eat pasta in a small bowl. I do eat pasta in a small bowl. I do eat pasta in a small bowl. I do eat pasta in a small bowl. I do eat pasta in a small bowl. I do eat pasta in a small bowl. I do eat pasta in a small bowl. I do eat pasta in a small bowl. I do eat pasta in a small bowl. I do eat pasta in a small bowl. I do eat pasta in a small bowl. I do eat pasta in a small bowl. I do eat pasta in a small bowl. I do eat pasta in a small bowl. I do eat pasta in,0.900,2.199s,N
+What is the weather like today?,,2.880,2.320s,N,The weather is very good. The weather is very good. The weather is very good.,0.600,2.210s,N

@@ -1,0 +1,30 @@
+{
+  "rag": {
+    "total_questions": 10,
+    "valid_questions": 10,
+    "rejected_questions": 0,
+    "avg_confidence": 3.0122805536798327,
+    "avg_response_time": 1.9636271476745606,
+    "correct_answers": 7,
+    "accuracy": 0.7,
+    "factual_responses": 10,
+    "factuality_rate": 1.0
+  },
+  "fine_tuned": {
+    "total_questions": 10,
+    "valid_questions": 10,
+    "rejected_questions": 0,
+    "avg_confidence": 0.6859999999999999,
+    "avg_response_time": 2.23761191368103,
+    "correct_answers": 7,
+    "accuracy": 0.7,
+    "factual_responses": 10,
+    "factuality_rate": 1.0
+  },
+  "improvements": {
+    "accuracy_improvement": 0.0,
+    "speed_improvement": -0.2739847660064696,
+    "confidence_improvement": -2.3262805536798328,
+    "factuality_improvement": 0.0
+  }
+}

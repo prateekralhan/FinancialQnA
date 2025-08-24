@@ -1,0 +1,348 @@
+{
+  "rag_results": [
+    {
+      "question": "What was the company's revenue in 2024?",
+      "method": "rag",
+      "answer": "",
+      "confidence": 3.156952899929981,
+      "time": 0.0,
+      "correct": "Y",
+      "validation_status": "accepted",
+      "factuality_status": "factual",
+      "sources": [
+        "memory_bank"
+      ],
+      "method_used": "memory"
+    },
+    {
+      "question": "What are the total assets?",
+      "method": "rag",
+      "answer": "",
+      "confidence": 2.154254592944047,
+      "time": 0.0,
+      "correct": "Y",
+      "validation_status": "accepted",
+      "factuality_status": "factual",
+      "sources": [
+        "memory_bank"
+      ],
+      "method_used": "memory"
+    },
+    {
+      "question": "What type of company is this?",
+      "method": "rag",
+      "answer": "",
+      "confidence": 3.454543584757966,
+      "time": 3.4057793617248535,
+      "correct": "Y",
+      "validation_status": "accepted",
+      "factuality_status": "factual",
+      "sources": [
+        "NASDAQ_AAPL_2023",
+        "NASDAQ_AAPL_2023",
+        "NASDAQ_AAPL_2024",
+        "NASDAQ_AAPL_2022",
+        "NASDAQ_AAPL_2023"
+      ],
+      "method_used": "rag"
+    },
+    {
+      "question": "What are the main business segments?",
+      "method": "rag",
+      "answer": "",
+      "confidence": 2.8256406972914023,
+      "time": 2.429962396621704,
+      "correct": "Y",
+      "validation_status": "accepted",
+      "factuality_status": "factual",
+      "sources": [
+        "NASDAQ_AAPL_2021",
+        "NASDAQ_AAPL_2024",
+        "NASDAQ_AAPL_2023",
+        "NASDAQ_AAPL_2023",
+        "NASDAQ_AAPL_2023"
+      ],
+      "method_used": "rag"
+    },
+    {
+      "question": "How does the company compare to competitors?",
+      "method": "rag",
+      "answer": "",
+      "confidence": 3.657811817245701,
+      "time": 2.3185195922851562,
+      "correct": "Y",
+      "validation_status": "accepted",
+      "factuality_status": "factual",
+      "sources": [
+        "NASDAQ_AAPL_2023",
+        "NASDAQ_AAPL_2023",
+        "NASDAQ_AAPL_2024",
+        "NASDAQ_AAPL_2024",
+        "NASDAQ_AAPL_2023"
+      ],
+      "method_used": "rag"
+    },
+    {
+      "question": "What are the growth trends?",
+      "method": "rag",
+      "answer": "",
+      "confidence": 2.7181462449495175,
+      "time": 2.319880485534668,
+      "correct": "Y",
+      "validation_status": "accepted",
+      "factuality_status": "factual",
+      "sources": [
+        "NASDAQ_AAPL_2024",
+        "NASDAQ_AAPL_2023",
+        "NASDAQ_AAPL_2022",
+        "NASDAQ_AAPL_2021",
+        "NASDAQ_AAPL_2022"
+      ],
+      "method_used": "rag"
+    },
+    {
+      "question": "What are the risk factors?",
+      "method": "rag",
+      "answer": "",
+      "confidence": 2.594982162498252,
+      "time": 2.270871877670288,
+      "correct": "Y",
+      "validation_status": "accepted",
+      "factuality_status": "factual",
+      "sources": [
+        "NASDAQ_AAPL_2022",
+        "NASDAQ_AAPL_2021",
+        "NASDAQ_AAPL_2024",
+        "NASDAQ_AAPL_2023",
+        "NASDAQ_AAPL_2023"
+      ],
+      "method_used": "rag"
+    },
+    {
+      "question": "What is the capital of France?",
+      "method": "rag",
+      "answer": "",
+      "confidence": 3.5442254268311792,
+      "time": 2.29177188873291,
+      "correct": "N",
+      "validation_status": "accepted",
+      "factuality_status": "factual",
+      "sources": [
+        "NASDAQ_AAPL_2023",
+        "NASDAQ_AAPL_2023",
+        "NASDAQ_AAPL_2022",
+        "NASDAQ_AAPL_2024",
+        "NASDAQ_AAPL_2023"
+      ],
+      "method_used": "rag"
+    },
+    {
+      "question": "How do you cook pasta?",
+      "method": "rag",
+      "answer": "",
+      "confidence": 3.1366145945568724,
+      "time": 2.2799267768859863,
+      "correct": "N",
+      "validation_status": "accepted",
+      "factuality_status": "factual",
+      "sources": [
+        "NASDAQ_AAPL_2024",
+        "NASDAQ_AAPL_2024",
+        "NASDAQ_AAPL_2024",
+        "NASDAQ_AAPL_2024",
+        "NASDAQ_AAPL_2024"
+      ],
+      "method_used": "rag"
+    },
+    {
+      "question": "What is the weather like today?",
+      "method": "rag",
+      "answer": "",
+      "confidence": 2.879633515793407,
+      "time": 2.319559097290039,
+      "correct": "N",
+      "validation_status": "accepted",
+      "factuality_status": "factual",
+      "sources": [
+        "NASDAQ_AAPL_2023",
+        "NASDAQ_AAPL_2023",
+        "NASDAQ_AAPL_2024",
+        "NASDAQ_AAPL_2022",
+        "NASDAQ_AAPL_2023"
+      ],
+      "method_used": "rag"
+    }
+  ],
+  "fine_tuned_results": [
+    {
+      "question": "What was the company's revenue in 2024?",
+      "method": "fine_tuned",
+      "answer": "The company's revenue in 2024 was $1.14 trillion.",
+      "confidence": 0.45999999999999996,
+      "time": 1.9198684692382812,
+      "correct": "Y",
+      "validation_status": "accepted",
+      "factuality_status": "factual",
+      "sources": [
+        "fine_tuned_model"
+      ],
+      "method_used": "fine_tuned"
+    },
+    {
+      "question": "What are the total assets?",
+      "method": "fine_tuned",
+      "answer": "The amount of assets is the total assets. If you consider the total assets in the portfolio, it is a total asset. If you consider the total assets in the portfolio, it is a total asset. If you consider the total assets in the portfolio, it is a total asset. If you consider the total assets in the portfolio, it is a total asset. If you consider the total assets in the portfolio, it is a total asset. If you consider the total assets in the portfolio, it is a total asset. If you consider the total assets in the portfolio, it is a total asset. If you consider the total assets in the portfolio, it is a total asset. If you consider the total assets in the portfolio, it is a total asset. If you consider the total assets in the portfolio, it is a total asset. If you consider the total assets in the portfolio, it is a total asset. If you consider the total assets in the portfolio, it is a total asset",
+      "confidence": 0.9,
+      "time": 2.609914779663086,
+      "correct": "Y",
+      "validation_status": "accepted",
+      "factuality_status": "factual",
+      "sources": [
+        "fine_tuned_model"
+      ],
+      "method_used": "fine_tuned"
+    },
+    {
+      "question": "What type of company is this?",
+      "method": "fine_tuned",
+      "answer": "I am a software developer. I am software developer. I am software developer. I am software developer. I am software developer. I am software developer. I am software developer. I am software developer. I am software developer. I am software developer. I am software developer. I am software developer. I am software developer. I am software developer. I am software developer. I am software developer. I am software developer. I am software developer. I am software developer. I am software developer. I am software developer. I am software developer. I am software developer. I am software developer. I am software developer. I am software developer. I am software developer. I am software developer. I am software developer. I am software developer. I am software developer. I am software developer. I am software developer. I am software developer. I am software developer. I am software developer. I am software developer. I am software developer. I am software developer. I am software developer",
+      "confidence": 0.9,
+      "time": 2.181622266769409,
+      "correct": "Y",
+      "validation_status": "accepted",
+      "factuality_status": "factual",
+      "sources": [
+        "fine_tuned_model"
+      ],
+      "method_used": "fine_tuned"
+    },
+    {
+      "question": "What are the main business segments?",
+      "method": "fine_tuned",
+      "answer": "",
+      "confidence": 0.3,
+      "time": 2.209587574005127,
+      "correct": "Y",
+      "validation_status": "accepted",
+      "factuality_status": "factual",
+      "sources": [
+        "fine_tuned_model"
+      ],
+      "method_used": "fine_tuned"
+    },
+    {
+      "question": "How does the company compare to competitors?",
+      "method": "fine_tuned",
+      "answer": "The company compares to competitors",
+      "confidence": 0.4,
+      "time": 2.219921350479126,
+      "correct": "Y",
+      "validation_status": "accepted",
+      "factuality_status": "factual",
+      "sources": [
+        "fine_tuned_model"
+      ],
+      "method_used": "fine_tuned"
+    },
+    {
+      "question": "What are the growth trends?",
+      "method": "fine_tuned",
+      "answer": "The growth trends are driven by the high number of active workers in the retail sector.\nQuestion: The growth trends are driven by the high number of active workers in the retail sector.\nQuestion: The growth trends are driven by the high number of active workers in the retail sector.\nQuestion: The growth trends are driven by the high number of active workers in the retail sector.\nQuestion: The growth trends are driven by the high number of active workers in the retail sector.\nQuestion: The growth trends are driven by the high number of active workers in the retail sector.\nQuestion: The growth trends are driven by the high number of active workers in the retail sector.\nQuestion: The growth trends are driven by the high number of active workers in the retail sector.\nQuestion: The growth trends are driven by the high number of active",
+      "confidence": 0.9,
+      "time": 2.2602217197418213,
+      "correct": "Y",
+      "validation_status": "accepted",
+      "factuality_status": "factual",
+      "sources": [
+        "fine_tuned_model"
+      ],
+      "method_used": "fine_tuned"
+    },
+    {
+      "question": "What are the risk factors?",
+      "method": "fine_tuned",
+      "answer": "The risk factors are:\nThe risk factors are:\nThe risk factors are:\nThe risk factors are:\nThe risk factors are:\nThe risk factors are:\nThe risk factors are:\nThe risk factors are:\nThe risk factors are:\nThe risk factors are:\nThe risk factors are:\nThe risk factors are:\nThe risk factors are:\nThe risk factors are:\nThe risk factors are:\nThe risk factors are:\nThe risk factors are:\nThe risk factors are:\nThe risk factors are:\nThe risk factors are:\nThe risk factors are:\nThe risk factors are:\nThe risk factors are:\nThe risk factors are:\nThe risk factors are:\nThe risk factors are:\nThe risk factors are:\nThe risk factors are:\nThe risk factors are:\nThe risk factors are:\nThe risk factors are:\nThe risk factors are:\nThe risk factors are:\nThe",
+      "confidence": 0.9,
+      "time": 2.329693555831909,
+      "correct": "Y",
+      "validation_status": "accepted",
+      "factuality_status": "factual",
+      "sources": [
+        "fine_tuned_model"
+      ],
+      "method_used": "fine_tuned"
+    },
+    {
+      "question": "What is the capital of France?",
+      "method": "fine_tuned",
+      "answer": "The capital of France is a unit of capital which is the capital of France.",
+      "confidence": 0.6,
+      "time": 2.2363219261169434,
+      "correct": "N",
+      "validation_status": "accepted",
+      "factuality_status": "factual",
+      "sources": [
+        "fine_tuned_model"
+      ],
+      "method_used": "fine_tuned"
+    },
+    {
+      "question": "How do you cook pasta?",
+      "method": "fine_tuned",
+      "answer": "I cook pasta in a small bowl. It's a very small bowl. I don't cook pasta in a large bowl. I do eat pasta in a small bowl. I do eat pasta in a small bowl. I do eat pasta in a small bowl. I eat pasta in a small bowl. I do eat pasta in a small bowl. I do eat pasta in a small bowl. I do eat pasta in a small bowl. I do eat pasta in a small bowl. I do eat pasta in a small bowl. I do eat pasta in a small bowl. I do eat pasta in a small bowl. I do eat pasta in a small bowl. I do eat pasta in a small bowl. I do eat pasta in a small bowl. I do eat pasta in a small bowl. I do eat pasta in a small bowl. I do eat pasta in a small bowl. I do eat pasta in a small bowl. I do eat pasta in a small bowl. I do eat pasta in",
+      "confidence": 0.9,
+      "time": 2.1992788314819336,
+      "correct": "N",
+      "validation_status": "accepted",
+      "factuality_status": "factual",
+      "sources": [
+        "fine_tuned_model"
+      ],
+      "method_used": "fine_tuned"
+    },
+    {
+      "question": "What is the weather like today?",
+      "method": "fine_tuned",
+      "answer": "The weather is very good. The weather is very good. The weather is very good.",
+      "confidence": 0.6,
+      "time": 2.209688663482666,
+      "correct": "N",
+      "validation_status": "accepted",
+      "factuality_status": "factual",
+      "sources": [
+        "fine_tuned_model"
+      ],
+      "method_used": "fine_tuned"
+    }
+  ],
+  "metrics": {
+    "rag": {
+      "total_questions": 10,
+      "valid_questions": 10,
+      "rejected_questions": 0,
+      "avg_confidence": 3.0122805536798327,
+      "avg_response_time": 1.9636271476745606,
+      "correct_answers": 7,
+      "accuracy": 0.7,
+      "factual_responses": 10,
+      "factuality_rate": 1.0
+    },
+    "fine_tuned": {
+      "total_questions": 10,
+      "valid_questions": 10,
+      "rejected_questions": 0,
+      "avg_confidence": 0.6859999999999999,
+      "avg_response_time": 2.23761191368103,
+      "correct_answers": 7,
+      "accuracy": 0.7,
+      "factual_responses": 10,
+      "factuality_rate": 1.0
+    },
+    "improvements": {
+      "accuracy_improvement": 0.0,
+      "speed_improvement": -0.2739847660064696,
+      "confidence_improvement": -2.3262805536798328,
+      "factuality_improvement": 0.0
+    }
+  }
+}

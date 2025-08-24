@@ -1,0 +1,67 @@
+{
+  "revenue_questions": {
+    "patterns": [
+      "revenue",
+      "sales",
+      "income"
+    ],
+    "responses": [
+      {
+        "question": "What was the company's revenue in 2024?",
+        "answer": "r of 2024. On September 10, 2024, the European Court of Justice announced that it had set aside the 2020 judgment of the European General Court and confirmed the European Commissions 2016 State Aid decision. As a result, during the fourth quarter of 2024 the Company recorded a one-time income tax charge of $10.2 billion, net, which represents $15.8 billion payable to Ireland via release",
+        "confidence": -1.190988213234851e+38,
+        "timestamp": 1755259778.0261333
+      },
+      {
+        "question": "What was the company's revenue in 2024?",
+        "answer": "r of 2024. On September 10, 2024, the European Court of Justice announced that it had set aside the 2020 judgment of the European General Court and confirmed the European Commissions 2016 State Aid decision. As a result, during the fourth quarter of 2024 the Company recorded a one-time income tax charge of $10.2 billion, net, which represents $15.8 billion payable to Ireland via release",
+        "confidence": -1.190988213234851e+38,
+        "timestamp": 1755260116.657404
+      },
+      {
+        "question": "What was the company's revenue in 2024?",
+        "answer": "",
+        "confidence": 3.156952899929981,
+        "timestamp": 1755268848.8664072
+      }
+    ],
+    "frequency": 3
+  },
+  "profit_questions": {
+    "patterns": [
+      "profit",
+      "earnings",
+      "net income"
+    ],
+    "responses": [],
+    "frequency": 0
+  },
+  "assets_questions": {
+    "patterns": [
+      "assets",
+      "balance sheet",
+      "financial position"
+    ],
+    "responses": [
+      {
+        "question": "What are the total assets?",
+        "answer": "fourth quarter of 2024. On September 10, 2024, the European Court of Justice announced that it had set aside the 2020 judgment of the European General Court and confirmed the European Commissions 2016 State Aid decision. As a result, during the fourth quarter of 2024 the Company recorded a one-time income tax charge of $10.2 billion, net, which represents $15.8 billion payable to Ireland via release",
+        "confidence": -1.190988213234851e+38,
+        "timestamp": 1755259784.664204
+      },
+      {
+        "question": "What are the total assets?",
+        "answer": "fourth quarter of 2024. On September 10, 2024, the European Court of Justice announced that it had set aside the 2020 judgment of the European General Court and confirmed the European Commissions 2016 State Aid decision. As a result, during the fourth quarter of 2024 the Company recorded a one-time income tax charge of $10.2 billion, net, which represents $15.8 billion payable to Ireland via release",
+        "confidence": -1.190988213234851e+38,
+        "timestamp": 1755260123.644484
+      },
+      {
+        "question": "What are the total assets?",
+        "answer": "",
+        "confidence": 2.154254592944047,
+        "timestamp": 1755268851.8803155
+      }
+    ],
+    "frequency": 3
+  }
+}

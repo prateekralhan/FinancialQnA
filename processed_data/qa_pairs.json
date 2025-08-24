@@ -1,0 +1,296 @@
+[
+  {
+    "question": "What was Apple’s total net sales for fiscal year 2024?",
+    "answer": "$391,035 million.",
+    "source": "NASDAQ_AAPL_2024",
+    "category": "revenue"
+  },
+  {
+    "question": "What was Apple’s net income for fiscal year 2024?",
+    "answer": "$93,736 million",
+    "source": "NASDAQ_AAPL_2024",
+    "category": "net_income"
+  },
+  {
+    "question": "What was Apple’s total gross margin for fiscal year 2024?",
+    "answer": "$180,683 million",
+    "source": "NASDAQ_AAPL_2024",
+    "category": "total_gross_margin"
+  },
+  {
+    "question": "What were Apple’s total operating expenses in FY24?",
+    "answer": "$57,467 million",
+    "source": "NASDAQ_AAPL_2024",
+    "category": "operating_expenses"
+  },
+  {
+    "question": "What was Apple’s provision for income taxes in FY24?",
+    "answer": "$29,749 million",
+    "source": "NASDAQ_AAPL_2024",
+    "category": "income_tax"
+  },
+  {
+    "question": "What was Apple’s basic earnings per share for FY24?",
+    "answer": "$6.11",
+    "source": "NASDAQ_AAPL_2024",
+    "category": "basic_earnings_per_share"
+  },
+  {
+    "question": "What was Apple’s diluted earnings per share for FY24?",
+    "answer": "$6.08",
+    "source": "NASDAQ_AAPL_2024",
+    "category": "diluted_earnings_per_share"
+  },
+  {
+    "question": "How much cash, cash equivalents and marketable securities did Apple report as of Sept 28, 2024 (combined stated in liquidity note)?",
+    "answer": "The company reported balances of unrestricted cash, cash equivalents and marketable securities totaling $140.8 billion as of Sept 28, 2024.",
+    "source": "NASDAQ_AAPL_2024",
+    "category": "cash_and_cash_equivalents"
+  },
+  {
+    "question": "What was iPhone net sales for FY24?",
+    "answer": "$201,183 million",
+    "source": "NASDAQ_AAPL_2024",
+    "category": "iphone_net_sales"
+  },
+  {
+    "question": "What was Mac net sales for FY24?",
+    "answer": "$29,984 million",
+    "source": "NASDAQ_AAPL_2024",
+    "category": "mac_net_sales"
+  },
+  {
+    "question": "What were Services net sales for FY24?",
+    "answer": "$96,169 million",
+    "source": "NASDAQ_AAPL_2024",
+    "category": "services_net_sales"
+  },
+  {
+    "question": "What were iPad net sales for FY24?",
+    "answer": "26,694 million",
+    "source": "NASDAQ_AAPL_2024",
+    "category": "ipad_net_sales"
+  },
+  {
+    "question": "What were Wearables, Home and Accessories net sales for FY24?",
+    "answer": "$37,005 million",
+    "source": "NASDAQ_AAPL_2024",
+    "category": "wearables_home_and_accessories_net_sales"
+  },
+  {
+    "question": "Which geographic segment had the largest net sales in FY24?",
+    "answer": "Americas — $167,045 million",
+    "source": "NASDAQ_AAPL_2024",
+    "category": "largest_net_sales"
+  },
+  {
+    "question": "What was Greater China net sales in FY24?",
+    "answer": "$66,952 million",
+    "source": "NASDAQ_AAPL_2024",
+    "category": "greater_china_net_sales"
+  },
+  {
+    "question": "What were total net sales for the three months ended Dec 30, 2023 (Apple’s Q1 of fiscal 2024)?",
+    "answer": "$119,575 million",
+    "source": "FY24_Q1_Consolidated_Financial_Statements",
+    "category": "total_net_sales_Q1_FY24"
+  },
+  {
+    "question": "What was Apple’s net income for the three months ended Dec 30, 2023?",
+    "answer": "$33,916 million",
+    "source": "FY24_Q1_Consolidated_Financial_Statements",
+    "category": "net_income_Q1_FY24"
+  },
+  {
+    "question": "What was Apple’s gross margin for the three months ended Dec 30, 2023?",
+    "answer": "$54,855 million",
+    "source": "FY24_Q1_Consolidated_Financial_Statements",
+    "category": "gross_margin_Q1_FY24"
+  },
+  {
+    "question": "What was R&D expense for the three months ended Dec 30, 2023?",
+    "answer": "$7,696 million",
+    "source": "FY24_Q1_Consolidated_Financial_Statements",
+    "category": "R&D_expense_Q1_FY24"
+  },
+  {
+    "question": "What were Services net sales for the three months ended Dec 30, 2023?",
+    "answer": "$23,117 million",
+    "source": "FY24_Q1_Consolidated_Financial_Statements",
+    "category": "services_net_sales_Q1_FY24"
+  },
+  {
+    "question": "What were cash and cash equivalents at Sept 28, 2024?",
+    "answer": "$29,943 million",
+    "source": "FY24_Q4_Consolidated_Financial_Statements",
+    "category": "cash_and_cash_equivalents_Q4_FY24"
+  },
+  {
+    "question": "WWhat were accounts receivable (net) at Sept 28, 2024?",
+    "answer": "$33,410 million",
+    "source": "FY24_Q4_Consolidated_Financial_Statements",
+    "category": "accounts_receivable_net_Q4_FY24"
+  },
+  {
+    "question": "What were total assets at Sept 28, 2024?",
+    "answer": "$364,980 million",
+    "source": "FY24_Q4_Consolidated_Financial_Statements",
+    "category": "total_assets_Q4_FY24"
+  },
+  {
+    "question": "What were inventories at Sept 28, 2024?",
+    "answer": "$7,286 million",
+    "source": "FY24_Q4_Consolidated_Financial_Statements",
+    "category": "inventories_Q4_FY24"
+  },
+  {
+    "question": "What was total shareholders’ equity at Sept 28, 2024?",
+    "answer": "$56,950 million",
+    "source": "FY24_Q4_Consolidated_Financial_Statements",
+    "category": "total_shareholders_equity_Q4_FY24"
+  },
+  {
+    "question": "What was Apple’s term debt (non-current) as of Sept 28, 2024?",
+    "answer": "$85,750 million",
+    "source": "FY24_Q4_Consolidated_Financial_Statements",
+    "category": "term_debt_non_current_Q4_FY24"
+  },
+  {
+    "question": "What was commercial paper outstanding at Sept 28, 2024 (current liabilities)?",
+    "answer": "$9,967 million",
+    "source": "FY24_Q4_Consolidated_Financial_Statements",
+    "category": "commercial_paper_outstanding_Q4_FY24"
+  },
+  {
+    "question": "How much cash generated by operating activities in FY24?",
+    "answer": "$118,254 million",
+    "source": "NASDAQ_AAPL_2024",
+    "category": "cash_generated_by_operating_activities_FY24"
+  },
+  {
+    "question": "How much cash generated by investing activities in FY24?",
+    "answer": "$2,935 million (net cash generated by investing activities).",
+    "source": "NASDAQ_AAPL_2024",
+    "category": "cash_generated_by_investing_activities_FY24"
+  },
+  {
+    "question": "How much cash used in financing activities in FY24?",
+    "answer": "$(121,983) million (cash used)",
+    "source": "NASDAQ_AAPL_2024",
+    "category": "cash_used_in_financing_activities_FY24"
+  },
+  {
+    "question": "How much did Apple repurchase in common stock in FY24 according to the cash flow statement?",
+    "answer": "$94,949 million (repurchases of common stock in FY24 per consolidated cash flows table)",
+    "source": "FY24_Q4_Consolidated_Financial_Statements",
+    "category": "repurchases_of_common_stock_FY24"
+  },
+  {
+    "question": "How much did Apple pay in dividends and dividend equivalents in FY24 according to the cash flow statement?",
+    "answer": "$15,234 million",
+    "source": "FY24_Q4_Consolidated_Financial_Statements",
+    "category": "dividends_and_dividend_equivalents_FY24"
+  },
+  {
+    "question": "What were cash and cash equivalents at the end of FY24 (Sept 28, 2024)?",
+    "answer": "$29,943 million",
+    "source": "FY24_Q4_Consolidated_Financial_Statements",
+    "category": "cash_and_cash_equivalents_end_of_FY24"
+  },
+  {
+    "question": "What was cash, cash equivalents and restricted cash, beginning balances for FY24?",
+    "answer": "$30,737 million",
+    "source": "NASDAQ_AAPL_2024",
+    "category": "cash_cash_equivalents_restricted_cash_beginning_balances_FY24"
+  },
+  {
+    "question": "Did Apple record any one-time tax charge in FY24? If yes, how much (net)?",
+    "answer": "Yes — a one-time income tax charge of $10.2 billion (net) related to the State Aid Decision.",
+    "source": "NASDAQ_AAPL_2024",
+    "category": "one_time_tax_charge_FY24"
+  },
+  {
+    "question": "What was Apple’s effective tax rate for FY24?",
+    "answer": "24.1%",
+    "source": "NASDAQ_AAPL_2024",
+    "category": "effective_tax_rate_FY24"
+  },
+  {
+    "question": "How did the one-time tax charge affect net income reconciliation to non-GAAP in FY24?",
+    "answer": "The non-GAAP adjustments included reversing the $10.2 billion net tax charge, increasing non-GAAP net income relative to GAAP.",
+    "source": "NASDAQ_AAPL_2024",
+    "category": "one_time_tax_charge_affect_net_income_reconciliation_to_non_GAAP_FY24"
+  },
+  {
+    "question": "What were weighted-average diluted shares used in computing diluted EPS for FY24?",
+    "answer": "15,408,095 (in thousands)",
+    "source": "NASDAQ_AAPL_2024",
+    "category": "weighted_average_diluted_shares_used_in_computing_diluted_EPS_FY24"
+  },
+  {
+    "question": "What was the change in total shareholders’ equity from Sept 30, 2023 to Sept 28, 2024?",
+    "answer": "Ending total shareholders’ equity was $56,950 million (down from $62,146 million as of Sept 30, 2023)",
+    "source": "NASDAQ_AAPL_2024",
+    "category": "change_in_total_shareholders_equity_from_Sept_30_2023_to_Sept_28_2024"
+  },
+  {
+    "question": "How many shares were issued in FY24 (common stock issued per shareholders’ equity table)?",
+    "answer": "1,423 (amounts in the table are in millions of dollars as common stock issued value — see shareholders’ equity table).",
+    "source": "NASDAQ_AAPL_2024",
+    "category": "shares_issued_in_FY24"
+  },
+  {
+    "question": "What was the Products gross margin in FY24?",
+    "answer": "$109,633 million",
+    "source": "NASDAQ_AAPL_2024",
+    "category": "products_gross_margin_FY24"
+  },
+  {
+    "question": "What was the Services gross margin in FY24?",
+    "answer": "$71,050 million",
+    "source": "NASDAQ_AAPL_2024",
+    "category": "services_gross_margin_FY24"
+  },
+  {
+    "question": "What was the total gross margin percentage for FY24?",
+    "answer": "46.2%",
+    "source": "NASDAQ_AAPL_2024",
+    "category": "total_gross_margin_percentage_FY24"
+  },
+  {
+    "question": "What was Apple’s operating income for FY24?",
+    "answer": "$123,216 million",
+    "source": "NASDAQ_AAPL_2024",
+    "category": "operating_income_FY24"
+  },
+  {
+    "question": "What was “Other income/(expense), net” for FY24?",
+    "answer": "$269 million (other income/(expense), net)",
+    "source": "NASDAQ_AAPL_2024",
+    "category": "other_income_expense_net_FY24"
+  },
+  {
+    "question": "What was the trend in total net sales from FY23 to FY24 (direction and % change reported)?",
+    "answer": "Total net sales increased from $383,285 million (FY23) to $391,035 million (FY24), a 2% increase.",
+    "source": "NASDAQ_AAPL_2024",
+    "category": "trend_in_total_net_sales_from_FY23_to_FY24"
+  },
+  {
+    "question": "What was the FY24 change in R&D expense compared to FY23 (amount and percent reported)?",
+    "answer": "R&D expense increased to $31,370 million in FY24 from $29,915 million in FY23 (an increase of $1,455 million, ~5%)",
+    "source": "NASDAQ_AAPL_2024",
+    "category": "FY24_change_in_R&D_expense_compared_to_FY23"
+  },
+  {
+    "question": "What is the company’s stated expectation regarding sufficiency of liquidity for the next 12 months as of FY24 filing?",
+    "answer": "The company believes its balances of unrestricted cash, cash equivalents and marketable securities ($140.8B), cash generated by operations, and access to debt markets will be sufficient to satisfy cash requirements and capital return program over the next 12 months and beyond.",
+    "source": "NASDAQ_AAPL_2024",
+    "category": "company_stated_expectation_regarding_sufficiency_of_liquidity_for_the_next_12_months_as_of_FY24_filing"
+  },
+  {
+    "question": "How much of FY24’s total net sales was recognized in FY24 from previously deferred revenue (amount disclosed)?",
+    "answer": "$7.7 billion of revenue recognized in 2024 was included in deferred revenue as of Sept 30, 2023.",
+    "source": "NASDAQ_AAPL_2024",
+    "category": "amount_of_FY24_total_net_sales_recognized_in_FY24_from_previously_deferred_revenue"
+  }
+]
