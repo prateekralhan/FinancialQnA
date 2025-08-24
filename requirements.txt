@@ -130,6 +130,7 @@ python-dotenv==1.1.1
 python-multipart==0.0.20
 pytz==2025.2
 PyYAML==6.0.2
+pysqlite3-binary
 rank-bm25==0.2.2
 referencing==0.36.2
 regex==2025.7.34
@@ -188,6 +189,7 @@ wrapt==1.17.3
 xxhash==3.5.0
 yarl==1.20.1
 zipp==3.23.0
+
 
 
 
