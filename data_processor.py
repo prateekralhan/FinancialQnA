@@ -28,6 +28,7 @@ try:
     nltk.download('punkt', quiet=True)
     nltk.download('stopwords', quiet=True)
     nltk.download('averaged_perceptron_tagger', quiet=True)
+    nltk.download('punkt_tab', quiet=True)
 except:
     pass
 
@@ -377,3 +378,4 @@ if __name__ == "__main__":
     chunks = processor.get_text_chunks()
     print(f"Generated {len(chunks)} text chunks")
     print(f"Generated {len(qa_pairs)} Q&A pairs")
+
