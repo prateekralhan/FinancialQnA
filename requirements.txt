@@ -156,7 +156,6 @@ soupsieve==2.7
 spacy==3.8.7
 spacy-legacy==3.0.12
 spacy-loggers==1.0.5
-sqlite3==3.35.0
 srsly==2.5.1
 starlette==0.47.2
 streamlit==1.48.1
@@ -189,6 +188,7 @@ wrapt==1.17.3
 xxhash==3.5.0
 yarl==1.20.1
 zipp==3.23.0
+
 
 
 
