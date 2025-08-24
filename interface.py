@@ -13,6 +13,11 @@ import pandas as pd
 import streamlit as st
 from pathlib import Path
 from typing import Dict, List
+
+import pysqlite3
+import sys
+sys.modules['sqlite3'] = sys.modules.pop('pysqlite3')
+
 from data_processor import FinancialDataProcessor
 from evaluation_system import ComprehensiveEvaluator
 from fine_tune_system import FineTunedSystem, TrainingConfig
@@ -681,3 +686,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
