@@ -1,9 +1,31 @@
-# 📊 Financial QA System: RAG vs Fine-tuning Comparison
+<div align="center">
 
-A comprehensive comparative analysis system that implements and evaluates two approaches for answering questions based on company financial statements:
+![](https://raw.githubusercontent.com/niranjanjoshi/MLOPS-Pipeline/refs/heads/main/images/BITS_banner.png)
+
+#  S2-24_AIMLCZG521 - Conversational AI | BITS Pilani WILP
+
+## Group No. - 110
+
+| Name | StudentID | Contribution % |
+|------|-----------|----------------|
+| JOSHI NIRANJAN SURYAKANT  | 2023AC05011 | 100% |
+| PRATEEK RALHAN | 2023AC05673 | 100% |
+| KESHARKAR SURAJ SANJAY | 2023AD05004 | 100% |
+| SAURABH SUNIT JOTSHI | 2023AC05565 | 100%  |
+| KILLI SATYA PRAKASH | 2023AC05066 | 100%  |
+
+# 📊 Financial QA System: RAG vs Fine-tuning Comparison [![Project Status: Active](https://www.repostatus.org/badges/latest/active.svg)](https://www.repostatus.org/#active)
+
+</div>
+
+*A comprehensive comparative analysis system that implements and evaluates two approaches for answering questions based on company financial statements:*
 
 1. **Retrieval-Augmented Generation (RAG) Chatbot**: Combines document retrieval and generative response
 2. **Fine-Tuned Language Model (FT) Chatbot**: Directly fine-tunes a small open-source language model on financial Q&A
+
+👉 [🎬 Live WebApp🔗](https://huggingface.co/spaces/vibertron/Financial_QnA)
+
+👉 [📝 Architecture Summary Document](./docs/summary.pdf)
 
 ## 🎯 Objective
 
@@ -287,3 +309,4 @@ financial-qa-system/
 - **API Integration**: RESTful API for external applications
 
 - **Multi-language Support**: Internationalization capabilities
+
